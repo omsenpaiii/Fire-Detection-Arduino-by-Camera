@@ -29,5 +29,5 @@
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/Fire-Detection-Arduino-by-Camera.git
+   git clone https://github.com/omsenpaiii/Fire-Detection-Arduino-by-Camera.git
    cd Fire-Detection-Arduino-by-Camera
